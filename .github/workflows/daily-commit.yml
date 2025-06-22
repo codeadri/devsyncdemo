@@ -1,4 +1,3 @@
-devsync/.github/workflows/daily-commit.yml
 name: Daily Auto Commit
 
 on:
